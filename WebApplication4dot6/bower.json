@@ -1,0 +1,27 @@
+{
+  "name": "WebApplication4dot6",
+  "authors": [
+    "David Fekke <david@fekke.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [
+    "amd",
+    "node"
+  ],
+  "license": "Apache-2.0",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "font-awesome": "fontawesome#~4.4.0",
+    "bootstrap": "~3.3.5"
+  }
+}
