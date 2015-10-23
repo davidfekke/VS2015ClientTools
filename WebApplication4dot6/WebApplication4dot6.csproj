@@ -168,6 +168,7 @@
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
     <Content Include="Content\Site.css" />
+    <Content Include="gruntfile.js" />
     <Content Include="gulpfile.js" />
     <Content Include="js\lib\file1.js" />
     <Content Include="js\lib\file2.js" />
@@ -177,6 +178,7 @@
     <Content Include="Scripts\bootstrap.min.js" />
     <None Include="bundleconfig.json" />
     <Content Include="package.json" />
+    <Content Include="js\min\main.min.js.map" />
     <None Include="Scripts\jquery.validate-vsdoc.js" />
     <Content Include="Scripts\jquery.validate.js" />
     <Content Include="Scripts\jquery.validate.min.js" />
